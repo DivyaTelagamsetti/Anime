@@ -1,0 +1,52 @@
+body
+{
+    background:url('back3.jpg') ;
+    background-size: cover;
+}
+h1{
+    color:fuchsia;
+}
+.line1
+{
+    text-align: center;
+    letter-spacing: 100px;
+}
+h1
+{
+        background-color:olivedrab;
+
+   text-align: center;
+    animation-duration:25ms;
+}
+.line2
+{
+    text-align: center;
+    letter-spacing: 100px;
+}
+.line3
+{
+    text-align: center;
+    letter-spacing: 100px;
+}
+.video1
+{
+    text-align: center;
+    word-spacing: 250px;
+}
+.video2
+{
+    text-align: center;
+    word-spacing: 250px;
+}
+.video3
+{
+    text-align: center;
+    word-spacing: 250px;
+}
+.image
+{
+   border-radius: 10px 10px 10px 10px;
+    margin-left: 30px;
+   margin-top: 30px;
+   padding :block end 20px;
+}
